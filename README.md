@@ -1,1 +1,1 @@
-A sample of my PortfolioProjects
+A collection of my PortfolioProjects
